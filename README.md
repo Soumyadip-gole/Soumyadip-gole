@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!%20I’m%20Soumyadip%20👋&animation=fadeIn&type=wave&color=gradient&height=120" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome👋&animation=fadeIn&type=wave&color=gradient&height=120" alt="Welcome Banner"/>
 </p>
 
 ## 👋 Hello there!
