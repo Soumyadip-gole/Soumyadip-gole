@@ -2,52 +2,73 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome👋&animation=fadeIn&type=wave&color=gradient&height=120" alt="Welcome Banner"/>
 </p>
 
-I’m **Soumyadip Gole**, a curious, code-loving CS undergrad. I live for backend logic, system design, and diving deep into tech. I’m the type of developer who will spend a weekend building a small tool just to learn something new 😄
+<h3 align="center">Hey! I'm Soumyadip Gole 🙌</h3>
+
+<p align="center">
+  A curious, code-loving CS undergrad who thrives on backend logic, system design, and solving real-world problems with code.  
+  I’m the kind of developer who’ll spend a weekend building a tool just to learn something new 😄
+</p>
 
 ---
 
-## 🛠 Tech & Tools
-
-Here’s what I tinker with most:
+## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Passport.js-34A853?style=flat-square&logo=passport&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Integration-FF6F00?style=flat-square&logo=ai&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌱 About Me
 
-- 💡 Learning something new every day — today, it might be Docker or async code patterns
-- 🎯 I love systems thinking: building tools that solve real problems
-- 🎮 When I’m not coding, you’ll find me gaming, sketching out ideas, or exploring a tech talk
+- 💡 Constant learner 
+- 🛠️ Focused on backend development with AI integration
+- 🎮 Gamer at heart, tech explorer by habit, and always sketching ideas
+- 🎯 I believe in building things that **solve real problems**
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soumyadip-gole-764332240/"><img src="https://img.shields.io/badge/LinkedIn‑Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:soumyadipgole201@gmail.com"><img src="https://img.shields.io/badge/Email‑Me‑red?logo=gmail&style=flat-square" alt="Email"></a>
-  <a href="https://github.com/Soumyadip-gole"><img src="https://img.shields.io/badge/GitHub‑Follow‑black?logo=github&style=flat-square" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/soumyadip-gole-764332240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="mailto:soumyadipgole201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=flat-square" alt="Email">
+  </a>
+  <a href="https://github.com/Soumyadip-gole">
+    <img src="https://img.shields.io/badge/GitHub-yellow?logo=github&style=flat-square" alt="GitHub">
+  </a>
 </p>
 
-> "Code is like humor. When you have to explain it, it’s bad." – Let’s make things clean, simple, and delightful.
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> Let’s keep it clean, efficient, and delightful 🚀
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyadip-gole&show_icons=true&theme=radical)
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip-gole&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip-gole&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip-gole&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
-
-*Made with ❤️, fueled by curiosity & coffee. Welcome to my corner of the dev world!* 🚀
