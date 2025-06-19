@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome👋&animation=fadeIn&type=wave&color=gradient&height=120" alt="Welcome Banner"/>
 </p>
 
-## 👋 Hello there!
-
 I’m **Soumyadip Gole**, a curious, code-loving CS undergrad. I live for backend logic, system design, and diving deep into tech. I’m the type of developer who will spend a weekend building a small tool just to learn something new 😄
 
 ---
@@ -20,8 +18,6 @@ Here’s what I tinker with most:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-
-*Tip:* Grouping related skills visually is quick and easy to scan :contentReference[oaicite:1]{index=1}
 
 ---
 
