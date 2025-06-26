@@ -33,15 +33,6 @@
 
 ---
 
-## 🌱 About Me
-
-- 💡 Constant learner 
-- 🛠️ Focused on backend development with AI integration
-- 🎮 Gamer at heart, tech explorer by habit, and always sketching ideas
-- 🎯 I believe in building things that **solve real problems**
-
----
-
 ## 🤝 Let’s Connect!
 
 <p align="center">
