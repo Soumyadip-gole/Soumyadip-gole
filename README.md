@@ -18,17 +18,6 @@
 </p>
 
 ---
-
-## 🚀 What I Do
-
-- 🧠 **Think in systems** — trade-offs, performance, scalability, failure modes  
-- ⚙️ **Build backend services** — REST APIs, auth flows, data pipelines  
-- 🔍 **Solve algorithmic problems** — DP, graphs, recursion, optimization  
-- 🧪 **Learn by building** — tools, experiments, side projects  
-- 🐧 **Daily-drive Linux** — because understanding your OS matters
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -63,15 +52,19 @@
 
 ---
 
-## 🧠 Core Strengths
+## 🧠 Problem Solving (LeetCode)
 
-- ✅ Backend Architecture & API Design  
-- ✅ Data Structures & Algorithms (DP, Graphs, Recursion-heavy problems)  
-- ✅ Authentication & Authorization Systems  
-- ✅ Debugging complex edge cases  
-- ✅ Writing readable, maintainable code  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Soumyadip22?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+<p align="center">
+  Consistently solving algorithmic problems with focus on  
+  <b>DP, Graphs, Recursion, and Optimization</b>
+</p>
 
 ---
+
 
 ## 📈 GitHub Stats
 
@@ -97,6 +90,7 @@
 </p>
 
 ---
+
 
 > **“Make it work. Make it right. Make it fast.”**  
 > — Kent Beck
