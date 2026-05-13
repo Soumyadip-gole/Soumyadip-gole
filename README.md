@@ -46,16 +46,6 @@ Currently incoming **Software Engineering Intern @ Dell Technologies** (ITDP, Ba
 
 ---
 
-## Projects
-
-**[Quantify](https://github.com/Soumyadip-gole/Quantify)** — Real-time market data platform built with Spring Boot, WebSockets, OAuth2, and PostgreSQL. Streams live price feeds with sub-second latency.
-
-**[ZIPrs](https://github.com/Soumyadip-gole/ZIPrs)** — Multi-threaded Huffman encoder/decoder in Rust. Processes 800MB in ~7.8s using a Rayon thread pool; achieves ~25% compression ratio.
-
-**[Patha Gamini](https://github.com/Soumyadip-gole/Patha-Gamini)** — Multilingual AI-powered pilgrim guide with real-time family tracking. Three-agent AI (Gemini 2.5 Flash + Groq), Node.js/FastAPI/React/Firebase.
-
----
-
 ## Problem Solving
 
 <div align="center">
