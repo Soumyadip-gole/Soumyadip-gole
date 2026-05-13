@@ -1,98 +1,87 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub&animation=fadeIn&type=wave&color=gradient&height=120" />
-</p>
+<div align="center">
 
-<h2 align="center">👋 Hey, I'm Soumyadip Gole</h2>
+# Soumyadip Gole
 
-<p align="center">
-  <b>Backend Developer | Systems-Oriented CS Undergrad | Problem Solver</b>
-</p>
+**Backend Engineer · Systems Thinker · CS Undergrad @ KIIT '27**
 
-<p align="center">
-  I enjoy building <b>robust backend systems</b>, thinking deeply about <b>how things work under the hood</b>,  
-  and turning messy real-world requirements into clean, scalable code.
-</p>
+Java · Spring Boot · Rust · PostgreSQL · Distributed Systems
 
-<p align="center">
-  If it involves <b>APIs, databases, concurrency, or system design</b> — I’m interested.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-gole-764332240/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Soumyadip22)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyadipgole201@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumyadip-gole)
 
----
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-</p>
-
-### 🧩 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🔐 Auth & Security
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passport.js-34A853?style=flat-square&logo=passport&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white"/>
-</p>
-
-### 🧰 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🧠 Problem Solving (LeetCode)
+I build backend systems that are **correct under load and honest about failure**. My work sits at the intersection of API design, concurrency, and system internals — I care about how things actually work, not just that they work.
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Soumyadip22?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</p>
-
-<p align="center">
-  Consistently solving algorithmic problems with focus on  
-  <b>DP, Graphs, Recursion, and Optimization</b>
-</p>
+Currently incoming **Software Engineering Intern @ Dell Technologies** (ITDP, Bangalore).
 
 ---
 
+## Tech Stack
 
-## 📈 GitHub Stats
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyadip-gole&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadip-gole&layout=compact&theme=radical" height="165"/>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Databases**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🤝 Let’s Connect
+## Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumyadip-gole-764332240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"/>
-  </a>
-  <a href="mailto:soumyadipgole201@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=flat-square"/>
-  </a>
-  <a href="https://github.com/Soumyadip-gole">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square"/>
-  </a>
-</p>
+**[Quantify](https://github.com/Soumyadip-gole/Quantify)** — Real-time market data platform built with Spring Boot, WebSockets, OAuth2, and PostgreSQL. Streams live price feeds with sub-second latency.
+
+**[ZIPrs](https://github.com/Soumyadip-gole/ZIPrs)** — Multi-threaded Huffman encoder/decoder in Rust. Processes 800MB in ~7.8s using a Rayon thread pool; achieves ~25% compression ratio.
+
+**[Patha Gamini](https://github.com/Soumyadip-gole/Patha-Gamini)** — Multilingual AI-powered pilgrim guide with real-time family tracking. Three-agent AI (Gemini 2.5 Flash + Groq), Node.js/FastAPI/React/Firebase.
 
 ---
 
+## Problem Solving
 
-> **“Make it work. Make it right. Make it fast.”**  
-> — Kent Beck
+<div align="center">
 
-Thanks for stopping by. If you like clean backend code and thoughtful engineering, we’ll get along well 🚀
+![LeetCode Stats](https://leetcard.jacoblin.cool/Soumyadip22?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+
+**600+ problems · Contest Rating ~1850 · Top 6%**
+
+Focus areas: Dynamic Programming · Graphs & Trees · Greedy · Concurrency
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Soumyadip-gole&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</div>
+
+---
+
+<div align="center">
+
+*Make it work. Make it right. Make it fast.*
+
+</div>
